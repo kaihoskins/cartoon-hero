@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    
+}
+
+header{
+    background-color: rgb(228, 231, 60);
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    background-color: rgb(228, 231, 60);
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+main{
+    margin: 0 auto;
+    max-width: max-content;
+    margin-left: 100px;
+}
+
+footer p{
+    padding: 20px;
+    margin: auto;
+}
+
+main img{
+    box-shadow: 0 0 20px 5px;
+}
