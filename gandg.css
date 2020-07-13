@@ -1,0 +1,14 @@
+header {
+    background-color: black;
+    margin: 0px;
+}
+
+header img{
+    max-width: 300px;
+    padding: 35px 0px 10px 35px;
+    
+}
+
+body {
+    margin: 0 auto;
+}
